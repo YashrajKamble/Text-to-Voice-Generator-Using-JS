@@ -1,4 +1,61 @@
 @media only screen and (min-width: 400px) and (max-width: 450px) {
+  .hero h1 {
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+  }
+
+  textarea {
+    width: 350px;
+    height: 250px;
+    background: #403d84;
+    color: #fff;
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    padding: 20px;
+    resize: none;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+
+  .row {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
 }
+
 @media only screen and (min-width: 350px) and (max-width: 400px) {
+  .hero h1 {
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: -100px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+  }
+
+  textarea {
+    width: 350px;
+    height: 250px;
+    background: #403d84;
+    color: #fff;
+    font-size: 15px;
+    border: 0;
+    outline: 0;
+    padding: 20px;
+    resize: none;
+    margin-bottom: 30px;
+    border-radius: 10px;
+  }
+
+  .row {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
 }
